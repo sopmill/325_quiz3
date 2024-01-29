@@ -5,4 +5,4 @@ def printBackwards (userWord):
 userWord = input("Yo yo, enter a word that will output: ")
 wordBackwards = printBackwards(userWord)
 
-print(wordBackwards)
+print(wordBackwards + ";)")
